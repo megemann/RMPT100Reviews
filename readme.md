@@ -77,3 +77,6 @@ Each university has its own directory containing:
 - All timestamps are in UTC
 - Some text fields may contain HTML entities
 - Missing values are represented as null/NaN
+
+# Dataset Showcase
+This repository is a demonstration of a dataset project. The dataset itself is not available for download or use. If you have any questions or would like to discuss the project, please contact me at ajfairbanks2005@gmail.com.

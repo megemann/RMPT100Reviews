@@ -51,8 +51,8 @@ Each university has its own directory containing:
 | University_ID | string | Unique identifier for the university |
 | file_location | string | Path to professor's university directory |
 | department | string | Academic department |
-| first_review_date | datetime | Date of professor's first review |
-| last_review_date | datetime | Date of professor's most recent review |
+| start_date | datetime | Date of professor's first review |
+| end_date | datetime | Date of professor's most recent review |
 
 ### universities_metadata.csv
 | Column | Type | Description |
@@ -64,8 +64,8 @@ Each university has its own directory containing:
 | location | string | City, State location |
 | total_professors | float | Total number of professors |
 | total_reviews | float | Total number of reviews |
-| first_review_date | datetime | Date of university's first review |
-| last_review_date | datetime | Date of university's most recent review |
+| start_date | datetime | Date of university's first review |
+| end_date | datetime | Date of university's most recent review |
 | file_location | string | Path to university directory |
 
 ## Rating Scales

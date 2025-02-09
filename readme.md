@@ -79,4 +79,4 @@ Each university has its own directory containing:
 - Missing values are represented as null/NaN
 
 # Dataset Showcase
-This repository is a demonstration of a dataset project. The dataset itself is not available for download or use. If you would like to view on kaggle, go to https://www.kaggle.com/datasets/austinfairbanks/ratemyprofessors-t100-universities-reviews/data
+This repository is a demonstration of a dataset project. The dataset itself is not available for download or use. If you would like to view on kaggle, go to [https://www.kaggle.com/datasets/austinfairbanks/ratemyprofessors-t100-universities-reviews/data](https://kaggle.com/datasets/591093bab329f5575c390f8be44a74c321d6d9412cfd3c5b2e5a8eeaae949356)

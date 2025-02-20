@@ -77,3 +77,6 @@ Each university has its own directory containing:
 - All timestamps are in UTC
 - Some text fields may contain HTML entities
 - Missing values are represented as null/NaN
+
+## Dataset Showcase
+The dataset is availible at https://kaggle.com/datasets/591093bab329f5575c390f8be44a74c321d6d9412cfd3c5b2e5a8eeaae949356
